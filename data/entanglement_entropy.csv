@@ -1,0 +1,4 @@
+circuit,entanglement_entropy_bits_out_of_3,real_2q_gates_needed,best_real_amplification
+single,0.966,3,~56.8x
+ring,0.728,10,~23.70x
+degree3,1.854,16,~13.5x
